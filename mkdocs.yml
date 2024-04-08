@@ -1,5 +1,22 @@
 site_name: Prunelle D. Treuil
-theme: 
-  name: terminal
+
+theme:
+  name: simple-blog
   custom_dir: overrides
-  palette: gruvbox_dark
+  colors:
+    title: green
+  site_name_style: italic
+  title_style: underline
+  logo: logo.png
+
+nav:
+- Home: index.md
+- Projects: 
+    - Internship: projects/internship.md
+    - Msc NLP: projects/tal.md
+- CV (PDF): pdf/ptreuilCV.pdf
+
+markdown_extensions:
+  - toc:
+      baselevel: "1"
+      toc_depth: "3"
