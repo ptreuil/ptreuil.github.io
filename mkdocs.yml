@@ -14,7 +14,7 @@ nav:
 - Projects: 
     - Internship: projects/internship.md
     - Msc NLP: projects/tal.md
-- CV (PDF): pdf/ptreuilCV.pdf
+- CV (PDF): ptreuilCV.pdf
 
 markdown_extensions:
   - toc:

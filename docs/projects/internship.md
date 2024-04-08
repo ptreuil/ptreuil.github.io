@@ -1,3 +1,4 @@
+----
 
 ## Exploitation et appréhension de la correspondance de Henri Poincaré
 

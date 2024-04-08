@@ -1,3 +1,18 @@
+----
+
+## Cognition and Language Conference at the University of Lorraine ([CaLCUL 2024](https://idmc.univ-lorraine.fr/calcul-2024-first-call-of-paper-ethics-and-ai/))
+
+*(Fall 2024 - Chairwoman - IDMC, Université de Lorraine)*
+
+The importance and impact of AI in our society do not need to be proven anymore. Like most revolutions, the initial stage of AI penetration in our daily lives was filled with experimentation and excitement.  However, as time passes and more and more people are affected by the new technology, it is critical to take a step back and think about our subject.
+
+What are the overall impacts of our programs and models on society?
+
+Do they affect all social groups equally and fairly? What are the positive and negative impacts and how can we maximize the benefits and minimize any harm that models can do? 
+
+For its second edition, the Cognition and Language Conference at the University of Lorraine had for theme: “Ethics and AI”. Under my direction, some second years students have oranised this event for all the master students. After a [first call for papers](calcul2024.pdf), we had the occasion to organise a review by the peer between students. In february, the volunteer students have presented the results of their different projects. For the first year like the older students, it was an opportunity to discuss our works and discover new point-of-view. The day ended on a lively debate with a slightly provocative title: **In the face of climate change, is it reasonable to keep developping highly performant but environmentally costing AIs ?**
+___________________________________________________________________________________________________________________________________________
+
 ## Case-Based Reasoning (CBR) Approach Using Analogy
 
 *(Fall 2023 - Supervised by [M. Couceiro](https://members.loria.fr/mcouceiro/) and [G. Guibon](https://gguibon.github.io/) - IDMC, Université de Lorraine)*
