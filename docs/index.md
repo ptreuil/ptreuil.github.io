@@ -20,7 +20,7 @@ My name is Prunelle and I don't know what I want. No, that's not totally right, 
 
 * **Internship**: Spring 2021, SCALAB, Tourcoing
 
-* **Civic Service** 2018-201*, Unis-Cité, Belfort
+* **Civic Service** 2018-2019, Unis-Cité, Belfort
 
 Two missions: animation of movies projection with debate for all ages, and initiation lectures to computer sciences for children (6-10 years)
 
