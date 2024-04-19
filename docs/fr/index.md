@@ -10,17 +10,19 @@ Je suis Prunelle et je ne sais pas ce que je veux faire de ma vie. En vrai, c'es
 
 * **Master TAL**: *Traitement Automatique des Langues*, 2022-2024, IDMC, Université de Lorraine
 
+[:material-lightbulb-alert-outline: Découvrez les projets effectués lors de mon master ici](projects/tal.md)
+
 * **Licence MIASHS**: *Mathématiques et Informatiques Appliquées aux Sciences Humaines et Sociales, parcours Sciences Cognitives*, 2019-2022, Université de Lille
 
 ## Experiences professionelles
 
-* **Stage de fin d'étude**: Printemps 2024, LORIA, Vandoeuvre-lès-Nancy 
+* **Stage de fin d'étude**: Printemps 2024, [LORIA](https://www.loria.fr/fr/), Vandoeuvre-lès-Nancy 
   
-(Voir Projets: Stage pour plus)
+[:material-lightbulb-alert-outline: Découvrez le projet ici](projects/internship.md)
 
 * **Stage**: Printemps 2021, SCALAB, Tourcoing
 
-* **Service Civique** 2018-2019, Unis-Cité, Belfort
+* **Service Civique** 2018-2019, [Unis-Cité](https://www.uniscite.fr/), Belfort
 
 Deux missions: animation de ciné-débat pour tout age, et initiation à l'informatique pour les enfants (6 à 10 ans)
 
@@ -29,7 +31,7 @@ Deux missions: animation de ciné-débat pour tout age, et initiation à l'infor
 ## Contact
 
 - **Mail personnel:** [prunelle.daudretreuil@protonmail.com](mailto:prunelle.daudretreuil@protonmail.com)
-- **Mail université:**[prunelle.daudre-treuil4@etu.univ-lorraine.fr](mailto:prunelle.daudre-treuil4@etu.univ-lorraine.fr)
+- **Mail université:** [prunelle.daudre-treuil4@etu.univ-lorraine.fr](mailto:prunelle.daudre-treuil4@etu.univ-lorraine.fr)
 - **GitHub:** [ptreuil](https://github.com/ptreuil)
 - **LinkedIn:** [ptreuil](https://www.linkedin.com/in/ptreuil/)
 

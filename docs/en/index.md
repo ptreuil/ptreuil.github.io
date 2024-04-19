@@ -10,17 +10,19 @@ My name is Prunelle and I don't know what I want. No, that's not totally right, 
 
 * **Msc NLP**: *Natural Language Processing*, 2022-2024, IDMC, Université de Lorraine
 
+[:material-lightbulb-alert-outline: Discover the project done during my master degree here](projects/tal.md)
+
 * **MIASHS Bachelor**: *Mathematics and Computer Science applied to Humanities, Cognitive Science speciality*, 2019-2022, Université de Lille
 
 ## Work expreriences
 
-* **End-of-study internship**: Spring 2024, LORIA, Vandoeuvre-lès-Nancy 
+* **End-of-study internship**: Spring 2024, [LORIA](https://www.loria.fr/en/), Vandoeuvre-lès-Nancy 
   
-(See Projects: Internship for more)
+[:material-lightbulb-alert-outline: Discover the project here](projects/internship.md)
 
 * **Internship**: Spring 2021, SCALAB, Tourcoing
 
-* **Civic Service** 2018-2019, Unis-Cité, Belfort
+* **Civic Service** 2018-2019, [Unis-Cité](https://www.uniscite.fr/), Belfort
 
 Two missions: animation of movies projection with debate for all ages, and initiation lectures to computer sciences for children (6-10 years)
 
@@ -29,7 +31,7 @@ Two missions: animation of movies projection with debate for all ages, and initi
 ## Contact
 
 - **Personal email:** [prunelle.daudretreuil@protonmail.com](mailto:prunelle.daudretreuil@protonmail.com)
-- **University email:**[prunelle.daudre-treuil4@etu.univ-lorraine.fr](mailto:prunelle.daudre-treuil4@etu.univ-lorraine.fr)
+- **University email:** [prunelle.daudre-treuil4@etu.univ-lorraine.fr](mailto:prunelle.daudre-treuil4@etu.univ-lorraine.fr)
 - **GitHub:** [ptreuil](https://github.com/ptreuil)
 - **LinkedIn:** [ptreuil](https://www.linkedin.com/in/ptreuil/)
 
