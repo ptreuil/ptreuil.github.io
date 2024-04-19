@@ -1,4 +1,10 @@
 site_name: Prunelle D. Treuil
+site_author: Prunelle D. Treuil
+site_description: The personal website of Prunelle D. Treuil
+copyright: Copyright &copy 2024 Prunelle Daudré--Treuil
+
+repo_name: ptreuil
+repo_url: https://github.com/ptreuil
 docs_dir: 'docs'
 
 theme:
