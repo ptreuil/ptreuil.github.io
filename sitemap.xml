@@ -1,3 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-04-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+    </url>
+    <url>
+        <loc>Noneprojects/internship/</loc>
+        <lastmod>2024-04-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/internship/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/projects/internship/"/>
+    </url>
+    <url>
+        <loc>Noneprojects/tal/</loc>
+        <lastmod>2024-04-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/tal/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/projects/tal/"/>
+    </url>
+    <url>
+        <loc>Nonefr/</loc>
+        <lastmod>2024-04-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonefr/projects/internship/</loc>
+        <lastmod>2024-04-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/projects/internship/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/internship/"/>
+    </url>
+    <url>
+        <loc>Nonefr/projects/tal/</loc>
+        <lastmod>2024-04-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/projects/tal/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/tal/"/>
+    </url>
 </urlset>
