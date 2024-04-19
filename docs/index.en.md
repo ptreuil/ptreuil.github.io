@@ -1,6 +1,6 @@
 ----
 
-<img align="right" src="picme.jpg" width="225" height="300" style='border:15px solid #4cae4f'>
+<img align="right" src="assets/picme.jpg" width="225" height="300">
 
 My name is Prunelle and I don't know what I want. No, that's not totally right, I know way to well what I want, I just don't want to choose only one thing to want. Never been capable of such a feat. I always wanted it all: literature, computer science, linguistic, artificial intelligence, all the most human of sciences and the hardest of them all. As such, no one should be surprise of the multidisciplinary nature of my studies and the diversity of the project I have tackle.
 
