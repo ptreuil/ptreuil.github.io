@@ -43,6 +43,8 @@ nav:
 - Projects: 
     - Internship: projects/internship.md
     - Msc NLP: projects/tal.md
+# - Blog:
+#   - blog/index.md
 - CV (PDF): ptreuilCV.pdf
 
 markdown_extensions:
@@ -71,12 +73,13 @@ markdown_extensions:
 # https://github.com/mbarkhau/markdown-katex?tab=readme-ov-file
 
 plugins:
+  # - blog
   - privacy
   - search
 
   - i18n:
       reconfigure_material: true
-      docs_structure: suffix
+      docs_structure: folder
       languages:
         - locale: en
           default: true
