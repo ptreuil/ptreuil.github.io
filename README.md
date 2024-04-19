@@ -14,6 +14,7 @@
 * [x] French translation
 * [x] Dark mode
 * [ ] ~~~Blog~~~ ``IMPOSSIBLE WITH THE CURRENT TRANSLATION SYSTEM``
+* [ ] Do the blog part MYSELF
 * [ ] LaTeX project
 * [ ] French/English CV
 * [ ] Think to the next todo list

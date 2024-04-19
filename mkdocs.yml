@@ -65,15 +65,15 @@ markdown_extensions:
   - pymdownx.highlight:
       use_pygments: true
       # https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
-
   - markdown_katex:
       no_inline_svg: True
       insert_fonts_css: True
       macro-file: macros.tex
-# pip install markdown-katex
-# https://github.com/mbarkhau/markdown-katex?tab=readme-ov-file
+    # pip install markdown-katex
+    # https://github.com/mbarkhau/markdown-katex?tab=readme-ov-file
 
 plugins:
+  - open-in-new-tab
   - privacy
   - search
 
@@ -89,7 +89,7 @@ plugins:
         - locale: fr
           name: Français
           nav:
-            - Acceuil: index.md
+            - Accueil: index.md
             - Projet:
               - Stage: projects/internship.md
               - Master TAL: projects/tal.md
