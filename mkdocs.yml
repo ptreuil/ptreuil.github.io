@@ -5,7 +5,10 @@ theme:
   name: material
   custom_dir: overrides
   icon:
-    logo: material/tree-outline
+    logo: fontawesome/solid/cat
+    previous: fontawesome/solid/circle-arrow-left
+    next: fontawesome/solid/circle-arrow-right
+    alternate: fontawesome/solid/earth-europe
   favicon: assets/favicon.ico
   font: false
   features:
@@ -43,27 +46,25 @@ nav:
 - Projects: 
     - Internship: projects/internship.md
     - Msc NLP: projects/tal.md
-# - Blog:
-#   - blog/index.md
 - CV (PDF): ptreuilCV.pdf
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-# https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage
+    # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage
   - attr_list
-# https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/ go to the right §
+    # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/ go to the right §
   - def_list
-# https://squidfunk.github.io/mkdocs-material/reference/lists/#using-definition-lists
+    # https://squidfunk.github.io/mkdocs-material/reference/lists/#using-definition-lists
   - footnotes
-# https://squidfunk.github.io/mkdocs-material/reference/footnotes/#adding-footnote-references
-# https://squidfunk.github.io/mkdocs-material/reference/footnotes/#adding-footnote-content
+    # https://squidfunk.github.io/mkdocs-material/reference/footnotes/#adding-footnote-references
+    # https://squidfunk.github.io/mkdocs-material/reference/footnotes/#adding-footnote-content
   - pymdownx.betterem
-# allow **bold** and _italic_
+    # allow **bold** and _italic_
   - pymdownx.highlight:
       use_pygments: true
-# https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
+      # https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
 
   - markdown_katex:
       no_inline_svg: True
@@ -73,21 +74,26 @@ markdown_extensions:
 # https://github.com/mbarkhau/markdown-katex?tab=readme-ov-file
 
 plugins:
-  # - blog
   - privacy
   - search
 
   - i18n:
-      reconfigure_material: true
       docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
       languages:
         - locale: en
           default: true
           name: English
-          build: true
         - locale: fr
           name: Français
-          build: true
+          nav:
+            - Acceuil: index.md
+            - Projet:
+              - Stage: projects/internship.md
+              - Master TAL: projects/tal.md
+            - CV (PDF): ptreuilCV.pdf
 
 extra:
   social:

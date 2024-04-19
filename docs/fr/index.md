@@ -12,7 +12,7 @@ Je suis Prunelle et je ne sais pas ce que je veux faire de ma vie. En vrai, c'es
 
 * **Licence MIASHS**: *Mathématiques et Informatiques Appliquées aux Sciences Humaines et Sociales, parcours Sciences Cognitives*, 2019-2022, Université de Lille
 
-## Éxperiences professionelles
+## Experiences professionelles
 
 * **Stage de fin d'étude**: Printemps 2024, LORIA, Vandoeuvre-lès-Nancy 
   

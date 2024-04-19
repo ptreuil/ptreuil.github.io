@@ -13,7 +13,7 @@
 
 * [x] French translation
 * [x] Dark mode
-* [ ] Blog
+* [ ] ~~~Blog~~~ ``IMPOSSIBLE WITH THE CURRENT TRANSLATION SYSTEM``
 * [ ] LaTeX project
 * [ ] French/English CV
 * [ ] Think to the next todo list
