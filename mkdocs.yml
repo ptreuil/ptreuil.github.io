@@ -4,18 +4,36 @@ docs_dir: 'docs'
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/logo.png
+  icon:
+    logo: material/tree-outline
   favicon: assets/favicon.ico
+  font: false
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.select
   palette: 
 
     # Palette toggle for light mode
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-5
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -28,11 +46,34 @@ nav:
 - CV (PDF): ptreuilCV.pdf
 
 markdown_extensions:
-  - toc:
-      baselevel: "1"
-      toc_depth: "3"
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+# https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage
+  - attr_list
+# https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/ go to the right §
+  - def_list
+# https://squidfunk.github.io/mkdocs-material/reference/lists/#using-definition-lists
+  - footnotes
+# https://squidfunk.github.io/mkdocs-material/reference/footnotes/#adding-footnote-references
+# https://squidfunk.github.io/mkdocs-material/reference/footnotes/#adding-footnote-content
+  - pymdownx.betterem
+# allow **bold** and _italic_
+  - pymdownx.highlight:
+      use_pygments: true
+# https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
+
+  - markdown_katex:
+      no_inline_svg: True
+      insert_fonts_css: True
+      macro-file: macros.tex
+# pip install markdown-katex
+# https://github.com/mbarkhau/markdown-katex?tab=readme-ov-file
 
 plugins:
+  - privacy
+  - search
+
   - i18n:
       reconfigure_material: true
       docs_structure: suffix
@@ -44,3 +85,10 @@ plugins:
         - locale: fr
           name: Français
           build: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ptreuil/
+    - icon: fontawesome/brands/github
+      link: https://github.com/ptreuil

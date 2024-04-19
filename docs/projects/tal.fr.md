@@ -1,8 +1,10 @@
 ----
 
-## Cognition and Language Conference at the University of Lorraine ([CaLCUL 2024](https://idmc.univ-lorraine.fr/calcul-2024-first-call-of-paper-ethics-and-ai/))
+## CaLCUL 2024
 
 *(Fall 2024 - Chairwoman - IDMC, Université de Lorraine)*
+
+**Cognition and Language Conference at the University of Lorraine ([CaLCUL 2024](https://idmc.univ-lorraine.fr/calcul-2024-first-call-of-paper-ethics-and-ai/))**
 
 The importance and impact of AI in our society do not need to be proven anymore. Like most revolutions, the initial stage of AI penetration in our daily lives was filled with experimentation and excitement.  However, as time passes and more and more people are affected by the new technology, it is critical to take a step back and think about our subject.
 
