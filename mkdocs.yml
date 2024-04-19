@@ -1,0 +1,26 @@
+site_name: Prunelle D. Treuil
+docs_dir: 'docs'
+
+theme:
+  #name: simple-blog
+  name: material
+  custom_dir: overrides
+  #colors:
+  #  title: green
+  #site_name_style: italic
+  #title_style: underline
+  logo: logo.png
+  favicon: favicon.ico
+  language: en
+
+nav:
+- Home: index.md
+- Projects: 
+    - Internship: projects/internship.md
+    - Msc NLP: projects/tal.md
+- CV (PDF): ptreuilCV.pdf
+
+markdown_extensions:
+  - toc:
+      baselevel: "1"
+      toc_depth: "3"
