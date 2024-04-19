@@ -2,45 +2,33 @@
 
 ## CaLCUL 2024
 
-*(Fall 2024 - Chairwoman - IDMC, Université de Lorraine)*
+*(Automne 2024 - Présidente - IDMC, Université de Lorraine)*
 
-**Cognition and Language Conference at the University of Lorraine ([CaLCUL 2024](https://idmc.univ-lorraine.fr/calcul-2024-first-call-of-paper-ethics-and-ai/))**
+**Conférence Cognition et Languadé à L'Université de Lorraine ([CaLCUL 2024](https://idmc.univ-lorraine.fr/calcul-2024-first-call-of-paper-ethics-and-ai/))**
 
-The importance and impact of AI in our society do not need to be proven anymore. Like most revolutions, the initial stage of AI penetration in our daily lives was filled with experimentation and excitement.  However, as time passes and more and more people are affected by the new technology, it is critical to take a step back and think about our subject.
+L'importance et l'impact de l'IA sur notre société n'a plus besoin d'être prouvé. Comme la plupart des récolutions, les premiers pas de l'IA dans notre vie quotidienne ont été remplis d'expérimentation et d'émerveillement. Cependant, plus le temps passe et plus les gens sont affectés directement par cette nouvelle technologie. Il est donc primordial de prendre de la hauteur afin d'évaluer notre prope domaine.
 
-What are the overall impacts of our programs and models on society?
+* Quels sont les impacts de nos programmes et modèles sur la société à une échelle plus globale ?
 
-Do they affect all social groups equally and fairly? What are the positive and negative impacts and how can we maximize the benefits and minimize any harm that models can do? 
+* Ces programmes et modèles, impactent-ils tous les différents groupes sociaux également et équitablement ? Quels sont leurs effets positifs et négatifs et comment pouvont nous maximiser leurs bénéfices et minimizer leurs risques ? 
 
-For its second edition, the Cognition and Language Conference at the University of Lorraine had for theme: “Ethics and AI”. Under my direction, some second years students have organised this event for all the master students. After a [first call for papers](calcul2024.pdf), we had the occasion to organise a review by the peer between students. In february, the volunteer students have presented the results of their different projects. For the first year like the older students, it was an opportunity to discuss our works and discover new point-of-view. The day ended on a lively debate with a slightly provocative title: **In the face of climate change, is it reasonable to keep developping highly performant but environmentally costing AIs ?**
-
-----
-
-## Case-Based Reasoning (CBR) Approach Using Analogy
-
-*(Fall 2023 - Supervised by [M. Couceiro](https://members.loria.fr/mcouceiro/) and [G. Guibon](https://gguibon.github.io/) - IDMC, Université de Lorraine)*
-
-**Group project**
-
-Making inferences about new situations by comparing them with ones that are similar, is a common cognitive process as analogical transfer, involving drawing information from memories. Analogical transfer is implemented in Case-based reasoning (CBR) systems, so that the unseen problems are able to be solved by utilizing a set of previous cases which are stored in memory. Unlike the traditional machine learning, in the computational analogy methods, there is no need for a pre-existing trained model specific to the task ([Badra 2021](https://www.ijcai.org/Proceedings/2020/0222.pdf)). These methods depend entirely on a well-organized memory bank and the use of an effective similarity measure to operate. 
-
-In this project, the CoAT method (Complexity-based Analogical Transfer) was used to conduct Case-Based Prediction. CoAT is based on the MeatCube algorithm which is created by Mr. Esteban Marquer. DIfferent classification and regression tasks have been tested on various dataset using this method, in order to observe if CoAT has different performances in different scenarios and with different similarity measures. A new computational cost metric was proposed, since the performance of CoAT is not comparable with the traditional neural networks models but have its own advantages (rapidity, low computational cost ...)
+Pour cette seconde édition, la Conférence Cognition et Languadé à L'Université de Lorraine a eu pour théme : *"Ethique et IA"*. Sous ma direction, des étudiants de seconde années de master ont pu organiser cet événement pour tous les étudiants du master. Après un premier [appel à papier](calcul2024.pdf), nous avons eu l'occasion d'organiser une revue par les paires entre étudiants. Puis, en février, des étudants on pu présenter certain de leur projet universitaire sur la base du volontariat. Pour les étudiants de premières années comme pour leur ainés, ce fut l'occasion de débattre de nos sujets et de découvrir de nouveaux points de vue sur notre travail. La journée se terminat sur un débat animé avec un titre un brin provocateur : **Face au changement climatique, est-il raisonnable de continuer à dévelloper des modéles, certes extrémement performants, mais très couteux environementallement ?", we had the occasion to organise a review by the peer between students. In february, the volunteer students have presented the results of their different projects. For the first year like the older students, it was an opportunity to discuss our works and discover new point-of-view. The day ended on a lively debate with a slightly provocative title: **
 
 ----
 
-## Variant Analysis on the Book of Ben Sira
+## Analyse des variatons dans le Livre de Ben Sira
 
-*(School year 2022-2023 - Supervised by [F. Rey](https://ecritures.univ-lorraine.fr/membres/titulaires/rey-f) - IDMC, Université de Lorraine)*
+*(Année scolaire 2022-2023 - Supervisé par [F. Rey](https://ecritures.univ-lorraine.fr/membres/titulaires/rey-f) - IDMC, Université de Lorraine)*
 
-**Group project**
+**Projet de groupe**
 
-As the best selling publication of all time and with this importance in various religion, the Bible exists in many differant variants. The study of the diffusion of this variations, the way they were transcribe and translate give an interesting overview into the the dissemination of such ideas. This poject focused on three collections of manuscripts from the book of Ben Sira, found in Qumrân, Massada and Cairo. The *Book of Ben Sira* or *[Book of Sirach](https://en.wikipedia.org/wiki/Book_of_Sirach)* is a wisdom book written around 180 BCE by Yeshua ben Eleazar ben Sira in ancient Hebrew. This book is usually not considered a part of the Hebrew Bible but are part of the canon of most christian churches with the notable exceptions of the protestant denominations. The goal of the project was to perform a statistical analysis of the transcription errors between the 9 manuscripts using the [Collatex](https://pypi.org/project/collatex/) library to detect the variants between the texts. This variants where then classified by type: deletion, addition, words/letters switch etc ..
+En tant que livre le plus vendu de tous les temps et avec son importance dans de nombreuses religions, la Bible existe en de nombreuses variantes. L'étude de leur diffusion, de la manière dont elles sont transcrite et traduite donne un aperçu intéressant sur la dissémination des idées religieuses. Ce projet ce concentre sur trois collections de manuscripts du Livre de Ben Sira, trouvé à Qumrân, Massada et Le Caire. Le *Livre de Ben Sira* or *[Book of Sirach](https://fr.wikipedia.org/wiki/Siracide)* est un livre de sagesse écrit environ 180 av J.C par Yeshua ben Eleazar ben Sira en ancien hébreu. Ce livre n'est généralement pas considéré comme faisant partie de la Bible hébraïque mais fait partie intégrante du canon de la plupart des église chrétienne à l'exception notable des dénominations protestantes. Le but de ce projet était d'effectuer une analyse statistique des erreurs de transcription entre les 9 manuscripts en utilisant la bibliothéque [Collatex](https://pypi.org/project/collatex/) afin de détecter les variations entre les tectes. Les variations furent classées par type : supression, ajout, échange de mots/lettres etc ...
 
 ----
 
 ## Paperjam
-*(Fall 2022 - Supervised by [M. Amblard](https://members.loria.fr/MAmblard/) and [M. Couceiro](https://members.loria.fr/mcouceiro/) - IDMC, Université de Lorraine)*
+*(Automne 2022 - Supervisé par [M. Amblard](https://members.loria.fr/MAmblard/) et [M. Couceiro](https://members.loria.fr/mcouceiro/) - IDMC, Université de Lorraine)*
 
-**Group project ([GitHub Link](https://github.com/PierreEpron/paperjam-lab) )**
+**Projet de groupe ([Lien GitHub](https://github.com/PierreEpron/paperjam-lab) )**
 
-Identifying scientific articles related to a specific feature is crucial for most researchers and students. The field of Natural Language Processing (NLP) has long been interested in this task. Different Information Extraction (IE) pipelines have been developed for this purpose. Most of them adopt a similar approach. They first extract mentions associated with specific entities such as tasks, materials, metrics, and methods. Then, they arrange them into coreference clusters. Lastly, they establish relationships between these clusters. This article aims to show some of the unresolved issues with that approach, by focusing on an already existing pipeline: SciREX. To achieve this, it was first necessary to set up their methodology, to which a few minor modifications were implemented.
+Identifier les articles scientifiques liés à un un sujet particulier est cruciale pour la plupart des chercheurs et étudiants. Le domainte du Traitement Automatique des Langues (TAL) a depuis longtemps été intéressé par cette tâche. Plusieurs pipelines d'extraction d'information on été devellopé dans ce but. La majorité adoptent une approche assez similaire. Premièrement, ils extraient les mentions associées aux classes suivantes : tâche, matériels, metriques et méthodes. Different Information Extraction (IE) pipelines have been developed for this purpose. Most of them adopt a similar approach. Puis, ils les arranges en clusters de cosimilarités. ENfin, ils établissent des relations entre ces clusters. Ce projet visait à reproduire cette démarche afin d'en démontrer les limites en ce concentrant sur un pipeline déjà existant : SciREX.

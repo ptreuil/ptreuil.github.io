@@ -1,28 +1,28 @@
-![Image title](assets/picme.jpg){ align=right width="225" height="300">}
+![Image title](assets/picme.jpg){ align=right width="150" height="200">}
 
 ----
 
-My name is Prunelle and I don't know what I want. No, that's not totally right, I know way to well what I want, I just don't want to choose only one thing to want. Never been capable of such a feat. I always wanted it all: literature, computer science, linguistic, artificial intelligence, all the most human of sciences and the hardest of them all. As such, no one should be surprise of the multidisciplinary nature of my studies and the diversity of the project I have tackle.
+Je suis Prunelle et je ne sais pas ce que je veux faire de ma vie. En vrai, c'est pas tout à fait ça. Je sais que trop bien ce que je veux, je ne veux juste pas choisir qu'une chose à vouloir. Je n'ai jamais été capable d'un tel exploit. J'ai toujours tout désiré : littérature, informatique linguistique, intelligence artificielle, toutes les sciences les plus humaines et les plus dures d'entre elles. Cela n'est donc point surprenant que mes études ont été multidisciplinaires et que les projets auquels je me suis attelée soit si divers.
 
 ----
 
 ## Formations
 
-* **Msc NLP**: *Natural Language Processing*, 2022-2024, IDMC, Université de Lorraine
+* **Master TAL**: *Traitement Automatique des Langues*, 2022-2024, IDMC, Université de Lorraine
 
-* **MIASHS Bachelor**: *Mathematics and Computer Science applied to Humanities, Cognitive Science speciality*, 2019-2022, Université de Lille
+* **Licence MIASHS**: *Mathématiques et Informatiques Appliquées aux Sciences Humaines et Sociales, parcours Sciences Cognitives*, 2019-2022, Université de Lille
 
-## Work expreriences
+## Éxperiences professionelles
 
-* **End-of-study internship**: Spring 2024, LORIA, Vandoeuvre-lès-Nancy 
+* **Stage de fin d'étude**: Printemps 2024, LORIA, Vandoeuvre-lès-Nancy 
   
-(See Projects: Internship for more)
+(Voir Projets: Stage pour plus)
 
-* **Internship**: Spring 2021, SCALAB, Tourcoing
+* **Stage**: Printemps 2021, SCALAB, Tourcoing
 
-* **Civic Service** 2018-2019, Unis-Cité, Belfort
+* **Service Civique** 2018-2019, Unis-Cité, Belfort
 
-Two missions: animation of movies projection with debate for all ages, and initiation lectures to computer sciences for children (6-10 years)
+Deux missions: animation de ciné-débat pour tout age, et initiation à l'informatique pour les enfants (6 à 10 ans)
 
 ----
 

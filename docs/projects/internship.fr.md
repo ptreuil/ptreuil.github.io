@@ -2,7 +2,7 @@
 
 ## Exploitation et appréhension de la correspondance de Henri Poincaré
 
-*(Spring 2024 - Supervised by [Emmanuel Nauer](https://members.loria.fr/ENauer/) - LORIA, Université de Lorraine)*
+*(Printemps 2024 - Supervisé par [Emmanuel Nauer](https://members.loria.fr/ENauer/) - LORIA, Université de Lorraine)*
 
 The Henri Poincaré (1854-1912) correspondance corpus contains more than 2000 letters written or received by the mathematcian. This letters, analysed inside de Henri Poincaré Archives have been numerised, transcribed and semantically annotated. Historians’ worked on this letters led to their publication into thematic volumes (youth letters, letters to the mathematicians, letters to the geodesians ...)
 

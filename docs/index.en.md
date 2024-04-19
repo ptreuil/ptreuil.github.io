@@ -1,4 +1,4 @@
-![Image title](assets/picme.jpg){ align=right width="225" height="300">}
+![Image title](assets/picme.jpg){ align=right width="150" height="200">}
 
 ----
 
@@ -28,8 +28,8 @@ Two missions: animation of movies projection with debate for all ages, and initi
 
 ## Contact
 
-- **Mail personnel:** [prunelle.daudretreuil@protonmail.com](mailto:prunelle.daudretreuil@protonmail.com)
-- **Mail université:**[prunelle.daudre-treuil4@etu.univ-lorraine.fr](mailto:prunelle.daudre-treuil4@etu.univ-lorraine.fr)
+- **Personal email:** [prunelle.daudretreuil@protonmail.com](mailto:prunelle.daudretreuil@protonmail.com)
+- **University email:**[prunelle.daudre-treuil4@etu.univ-lorraine.fr](mailto:prunelle.daudre-treuil4@etu.univ-lorraine.fr)
 - **GitHub:** [ptreuil](https://github.com/ptreuil)
 - **LinkedIn:** [ptreuil](https://www.linkedin.com/in/ptreuil/)
 
