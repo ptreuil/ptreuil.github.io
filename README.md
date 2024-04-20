@@ -23,7 +23,9 @@
 
 1. Install the requirement in a nice conda environment
 
-       conda create --name env --file requirements.txt
+       conda create -n "site" python=3.8
+       conda activate site
+        pip install -r requirements.txt
 
 */!\ This requirement.txt file is not suitable for ``pip install`` and is not currently properly cleaned. If you use an other environment name than ``env`` please, add it to the ``.gitignore``.
 
