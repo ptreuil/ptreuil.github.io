@@ -1,8 +1,7 @@
 ![Image title](assets/picme.jpg){ align=right width="150" height="200">}
 
 ----
-
-Je suis Prunelle et je ne sais pas ce que je veux faire de ma vie. En vrai, c'est pas tout à fait ça. Je sais que trop bien ce que je veux, je ne veux juste pas choisir qu'une chose à vouloir. Je n'ai jamais été capable d'un tel exploit. J'ai toujours tout désiré : littérature, informatique linguistique, intelligence artificielle, toutes les sciences les plus humaines et les plus dures d'entre elles. Cela n'est donc point surprenant que mes études ont été multidisciplinaires et que les projets auquels je me suis attelée soit si divers.
+Je m'appelle Prunelle et je ne sais pas vraiment ce que je veux faire de ma vie. En fait, c'est pas tout à fait ça. Je ne sais que trop bien ce que je veux. Je ne veux juste pas choisir un seul domaine. Je n'ai jamais été capable d'un tel exploit. J'ai toujours tout désiré : littérature, informatique linguistique, intelligence artificielle et toutes les sciences. Aussi bien les plus "humaines" que les plus dures d'entre elles. Il n'est donc pas surprenant que mes études soient  multidisciplinaires et que les projets auxquels je participe soit si divers.
 
 ----
 
@@ -16,7 +15,7 @@ Je suis Prunelle et je ne sais pas ce que je veux faire de ma vie. En vrai, c'es
 
 ## Experiences professionelles
 
-* **Stage de fin d'étude**: Printemps 2024, [LORIA](https://www.loria.fr/fr/), Vandoeuvre-lès-Nancy 
+* **Stage de fin d'Étude**: Printemps 2024, [LORIA](https://www.loria.fr/fr/), Vandoeuvre-lès-Nancy 
   
 [:material-lightbulb-alert-outline: Découvrez le projet ici](projects/internship.md)
 
@@ -24,7 +23,7 @@ Je suis Prunelle et je ne sais pas ce que je veux faire de ma vie. En vrai, c'es
 
 * **Service Civique** 2018-2019, [Unis-Cité](https://www.uniscite.fr/), Belfort
 
-Deux missions: animation de ciné-débat pour tout age, et initiation à l'informatique pour les enfants (6 à 10 ans)
+Deux missions: animation de ciné-débat pour tout âge, et initiation à l'informatique pour les enfants (6 à 10 ans)
 
 ----
 
