@@ -19,3 +19,9 @@ Ce modèle est inspiré les modèles [business-cards-latex](https://github.com/a
 
 !!! note
     La bibliothèque Qrcode permet de créer de nombreux qrcodes différents, notamment des qrcodes renvoyant une vCard(Virtual Contact File). C'est une bibliothèque assez intéressante que je recommande sincérement. Je pense qu'il est toujours mieux d'utiliser LaTeX pour générer des qrcodes que de les télécharcher d'un site web externe. (Après tout si LaTeX est Turing complet[^1], nous serions fou de ne pas en profiter plainement.)
+
+[^1]:
+    Si le site web d'Overleaf nous dit que le lien vers l'artivle original est mort, iels nous donnent un [article complémentaire](https://pbelmans.ncag.info/blog/2010/12/12/a-turing-machine-in-latex-follow-u/) par Pieter Belmans (2010). Je recommande cette lecture particulièrement intéressante. Pour plus de drôlerie Turing compléte (toujours fourni par le site web d'Overleaf), l'on peut aussi lire : 
+
+    * [This is a Universal Turing Machine (UTM) implemented in Conway's Game of Life](http://rendell-attic.org/gol/utm/index.htm) (Ceci est une Machine de Turing Universelle implémenté dans le Jeu de la Vie de Conway)
+    * [La playlist Youtube des Machines de Turing dans Minecraft](https://www.youtube.com/results?search_query=minecraft+turing+machine)
