@@ -1,5 +1,6 @@
 site_name: Prunelle D. Treuil
 site_author: Prunelle D. Treuil
+site_url: https://ptreuil.github.io/
 site_description: The personal website of Prunelle D. Treuil
 copyright: Copyright &copy 2024 Prunelle Daudré--Treuil
 
@@ -27,8 +28,8 @@ theme:
     - search.highlight
     - content.code.copy
     - content.code.select
-  palette: 
 
+  palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -52,6 +53,7 @@ nav:
 - Projects: 
     - Internship: projects/internship.md
     - Msc NLP: projects/tal.md
+    - LaTeX: projects/latex.md
 - CV (PDF): ptreuilCV.pdf
 
 markdown_extensions:
@@ -85,6 +87,7 @@ plugins:
   - open-in-new-tab
   - privacy
   - search
+  # - social # check if pb solved reguraly
 
   - i18n:
       docs_structure: folder
@@ -102,6 +105,7 @@ plugins:
             - Projet:
               - Stage: projects/internship.md
               - Master TAL: projects/tal.md
+              - LaTeX: projects/latex.md
             - CV (PDF): ptreuilCV.pdf
 
 extra:
